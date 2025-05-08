@@ -1,0 +1,16 @@
+{
+  "name": "movie-search-app",
+  "version": "1.0.0",
+  "description": "A Web app where user will serach the movie they like using omdb api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.5",
+    "tailwindcss": "^4.1.5"
+  }
+}
